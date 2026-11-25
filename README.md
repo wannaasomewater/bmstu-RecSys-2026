@@ -1,1 +1,1 @@
-# bmstu-RecSys-2026-
+# bmstu-RecSys-2026
